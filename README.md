@@ -1,12 +1,12 @@
 # object-scope
 
-![Platform](https://img.shields.io/badge/platform-Web-blue)
-![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-![AI](https://img.shields.io/badge/AI-TensorFlow.js-orange)
-![Model](https://img.shields.io/badge/model-COCO--SSD-green)
-![Detection](https://img.shields.io/badge/detection-Real--Time-red)
-![Browser](https://img.shields.io/badge/runs%20in-Browser-purple)
-![Firebase](https://img.shields.io/badge/hosted%20on-Firebase-orange)
+![Platform](https://img.shields.io/badge/platform-Web-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Model](https://img.shields.io/badge/model-COCO--SSD-green?style=for-the-badge)
+![Detection](https://img.shields.io/badge/detection-Real--Time-red?style=for-the-badge)
+![Browser](https://img.shields.io/badge/runs%20in-Browser-purple?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/hosted%20on-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <img width="1671" height="836" alt="Object Scope - Real-Time and Image-Based Object Detection with COCO-SSD and TensorFlow js" src="https://github.com/user-attachments/assets/ff7797f3-3d1e-49b5-b756-41e47a00df71" />
 
